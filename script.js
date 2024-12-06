@@ -29,7 +29,7 @@ document.getElementById('yesButton').addEventListener('click', function() {
 
 document.getElementById('noButton').addEventListener('click', function() {
     const finalMessage = document.getElementById('finalMessage');
-    finalMessage.textContent = "Ohh,yaudah gapapa semoga kita masih bisa temenan ya 😊!";
+    finalMessage.textContent = "Ohh,yaudah atuh gapapa so cantik ngentot!";
     finalMessage.classList.remove('hidden');
     document.getElementById('responseSection').classList.add('hidden');
     document.getElementById('message').classList.add('hidden');
